@@ -1,0 +1,208 @@
+/*  BuddhaNet.Net Global Stylesheet (CSS) Do Not Alter */
+
+
+
+/*  Sitemap Style Begin */
+
+body.sitemap
+{ 
+scrollbar-face-color: #ffffff; 
+scrollbar-shadow-color: #4B0082; 
+scrollbar-highlight-color: #5a5a5a; 
+scrollbar-3dlight-color: #B0C4DE; 
+scrollbar-darkshadow-color: #cccccc; 
+scrollbar-track-color: #9C9C9C; 
+scrollbar-arrow-color: #000000;
+font-family:  Arial,Helvetica,sans-serif;
+font-size: 9px;
+color : #000000;
+background : #FFFFFF;
+}
+
+table.sitemap 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+
+input.sitemap 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+
+select.sitemap 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+
+td.sitemap
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+
+.sitemap-arrow
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+}
+a.sitemap:visited 
+{
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 9px; 
+color:#333333; 
+text-decoration:none;
+font-weight: bold; 
+}
+
+a.sitemap:active
+{
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 9px; 
+color: #FF1493; 
+text-decoration:underline;
+font-weight: bold; 
+}
+
+a.sitemap:hover 
+{
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 9px; 
+color: #9370DB; 
+text-decoration:underline;
+font-weight: bold; 
+}
+
+/*  Sitemap Style End */
+
+
+
+/*  Audio Style Begin */
+
+body.audio
+{ 
+scrollbar-face-color: #222222; 
+scrollbar-shadow-color: #222222; 
+scrollbar-highlight-color: #333333; 
+scrollbar-3dlight-color: #333333; 
+scrollbar-darkshadow-color: #111111; 
+scrollbar-track-color: #111111; 
+scrollbar-arrow-color: #ffff33;
+font-family: Verdana,Arial, Helvetica, sans-serif; 
+font-size: 9px;
+color: #FFFFFF;
+background : #000000;
+} 
+
+input.audio
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+
+select.audio
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+
+td.audio
+{ 
+font-family: Arial, Helvetica,sans-serif;
+font-size: 9px;
+color: #ffffff;
+background : #000000;
+} 
+
+a.audio:link,  a.audio:visited 
+{
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 9px; 
+color: #FFD700; 
+text-decoration:none;
+}
+
+a.audio:active
+{
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 9px; 
+color: #000000; 
+text-decoration:underline overline;
+}
+
+a.audio:hover 
+{
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 9px; 
+color: #FFD700; 
+text-decoration: underline overline;
+background: #ff6600;
+}
+
+/*  Audio Style End */
+
+
+/*  E-Books Style Begin  */
+
+body.ebooks
+{ 
+scrollbar-face-color: #222222; 
+scrollbar-shadow-color: #CC9900; 
+scrollbar-highlight-color: #FFFFCC; 
+scrollbar-3dlight-color: #333333; 
+scrollbar-darkshadow-color: #111111; 
+scrollbar-track-color: #AB976E; 
+scrollbar-arrow-color: #FFFF33; 
+font-family:  Arial,Helvetica,sans-serif;
+font-size: 12px;
+color : #FFFFFF;
+background : #000000;
+}
+
+td.ebooks
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+td.ebookstitle
+{
+	font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.ebooks-small
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;	
+	color: #FFFFFF;
+}
+
+.ebooks-link
+{
+	font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+
+/*  E-Books Style Begin  */
+
+
+a.sitemap:link { 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 9px; 
+color:#333333; 
+text-decoration:none;
+font-weight: bold; 
+ } 
